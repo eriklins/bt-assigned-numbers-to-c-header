@@ -5,6 +5,7 @@ This Python script grabs the BT Assigned Numbers for
 - Descriptor UUIDs
 - Company IDs
 - GAP Appearance
+
 and creates a C/C++ header file from it, which can then be used in own BT C/C++ application like (BLE Scout|https://github.com/eriklins/BLE-Scout).
 
 # License
