@@ -6,7 +6,7 @@ This Python script grabs the BT Assigned Numbers for
 - Company IDs
 - GAP Appearance
 
-and creates a C/C++ header file from it, which can then be used in own BT C/C++ application like [BLE Scout](https://github.com/eriklins/BLE-Scout).
+from [NordicSemiconductor/bluetooth-numbers-database](https://github.com/NordicSemiconductor/bluetooth-numbers-database) and creates a C/C++ header file from it, which can then be used in own BT C/C++ applications like [BLE Scout](https://github.com/eriklins/BLE-Scout).
 
 # License
 bt_assigned_numbers_to_c.py is released under the MIT License. Copyright (C) 2024 Erik Lins
